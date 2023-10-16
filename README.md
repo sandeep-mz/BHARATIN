@@ -13,7 +13,7 @@ This repository hosts multiple web development projects designed to enhance user
 - Multimedia Support: Add videos and images with just a few clicks.
 - Flexible Templates: Choose from a variety of templates to suit your content.
   
-  [![View Project]](https://github.com/sandeep-mz/BHARATIN/)
+  [View Project ([https://github.com/sandeep-mz/BHARATIN/](https://github.com/sandeep-mz/BHARATIN/tree/main/Task%201))
  
 
 
@@ -28,9 +28,9 @@ This repository hosts multiple web development projects designed to enhance user
 - Project Tracking: Monitor the progress of your social media projects in real-time.
 - Prioritization: Prioritize tasks based on urgency, importance, or project dependencies.
 
-   [![View Project](button_image.png)](https://your-project-url-here)
+   View Project(button_image.png)]([https://your-project-url-here](https://github.com/sandeep-mz/BHARATIN/tree/main/Task%201))
 
-## 3. Video Conferencing Website
+## 3. Video Conferencing Website - # working on it 
 
 **Description**: The Video Conferencing Website and application projects focus on real-time communication and video conferencing. It includes features like text chat, audio-video interactions, video recording, and more.
 
@@ -40,7 +40,7 @@ This repository hosts multiple web development projects designed to enhance user
 - Video Recording: Record and store video conference sessions.
 - User-Friendly Interface: Intuitive design for easy usage.
 
-   [![View Project](button_image.png)](https://your-project-url-here)
+  View Project(button_image.png)]([https://your-project-url-here](https://github.com/sandeep-mz/BHARATIN/tree/main/Task%201))  
 
 Each project is designed to enhance online experiences and streamline web development and communication tasks. Feel free to explore each project and contribute to their development. For more details, please refer to the individual project directories.
 
