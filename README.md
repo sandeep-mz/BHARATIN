@@ -5,6 +5,10 @@ This repository hosts multiple web development projects designed to enhance user
 
 ## 1. Content Management Tool
 
+![Screenshot (127)](https://github.com/sandeep-mz/BHARATIN/assets/108665091/c54da6ec-202f-4f13-9fad-e5ca90b75f55)
+
+
+
 **Description**: This project is a web-based Content Management Tool. It provides a user-friendly environment for creating web pages and blog posts. Users can easily add text, images, videos, and other multimedia elements to create engaging content.
 
 **Key Features**:
@@ -21,6 +25,8 @@ This repository hosts multiple web development projects designed to enhance user
 ## 2. Project Management Tool
 
 **Description**: The Project Management Tool is a comprehensive framework for managing social media projects. It enables users to connect, collaborate, and assign tasks to team members. It's an ideal solution for enhancing project coordination and productivity.
+
+![Screenshot 2023-10-16 193105](https://github.com/sandeep-mz/BHARATIN/assets/108665091/92b1d509-2b6d-4a55-9679-73a3fa8f42db)
 
 **Key Features**:
 - Social Media Integration: Facilitate seamless communication and collaboration among users.
