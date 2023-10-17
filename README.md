@@ -36,7 +36,7 @@ This repository hosts multiple web development projects designed to enhance user
 
   View Project ((https://github.com/sandeep-mz/BHARATIN/tree/main/Task%202))
 
-## 3. Video Conferencing Website - # working on it 
+## 3. Video Conferencing Website
 
 **Description**: The Video Conferencing Website and application projects focus on real-time communication and video conferencing. It includes features like text chat, audio-video interactions, video recording, and more.
 
