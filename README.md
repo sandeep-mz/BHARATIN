@@ -40,13 +40,16 @@ This repository hosts multiple web development projects designed to enhance user
 
 **Description**: The Video Conferencing Website and application projects focus on real-time communication and video conferencing. It includes features like text chat, audio-video interactions, video recording, and more.
 
+![Untitled design](https://github.com/sandeep-mz/BHARATIN/assets/108665091/c69636e5-8d90-4d2e-b68b-28f091701fb2)
+
+
 **Key Features**:
 - Real-Time Chat: Enable textual chatting during video conferences.
 - Audio-Video Interactions: High-quality audio and video streaming.
 - Video Recording: Record and store video conference sessions.
 - User-Friendly Interface: Intuitive design for easy usage.
 
-    View Project ((https://github.com/sandeep-mz/BHARATIN/tree/main/Task%202))
+    View Project ((https://github.com/sandeep-mz/BHARATIN/tree/main/Task%203))
 
 Each project is designed to enhance online experiences and streamline web development and communication tasks. Feel free to explore each project and contribute to their development. For more details, please refer to the individual project directories.
 
